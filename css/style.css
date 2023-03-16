@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+}
+
+:root {
+    --white-color:                  #ffffff;
+    --primary-color:                #535da1;
+    --secondary-color:              #79c257;
+  
+    --body-font-family:             'DM Sans', sans-serif;
+}
+.section-title-wrap {
+    background: var(--secondary-color);
+    border-radius: var(--border-radius-small);
+    padding: 10px 30px;
+  }
+  .hero{
+    background: url(../assets/background.svg);
+  }
