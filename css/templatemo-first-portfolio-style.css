@@ -1,12 +1,3 @@
-/*
-
-TemplateMo 578 First Portfolio
-
-https://templatemo.com/tm-578-first-portfolio
-
-*/
-
-
 /*---------------------------------------
   CUSTOM PROPERTIES ( VARIABLES )             
 -----------------------------------------*/
@@ -520,9 +511,9 @@ strong {
   position: absolute;
   z-index: 22;
   top: 0;
-  width: 100%;
-  min-width: 350px;
-  border-radius: 50px;
+  width: 80%;
+  min-width: 250px;
+  border-radius: 5em;
 }
 
 .hero svg {
@@ -977,7 +968,12 @@ strong {
   color: var(--white-color);
 }
 
+.flag img{
+  width: 42px;
+  height: 25px;
+  margin: 0.2em;
 
+}
 /*---------------------------------------
   RESPONSIVE STYLES               
 -----------------------------------------*/
